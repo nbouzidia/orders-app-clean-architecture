@@ -1,9 +1,5 @@
 # Travail Pratique
 
-# Lien Repo GitHub
-
-https://github.com/nbouzidia/orders-app-clean-architecture.git
-
 ## Fonctionnalités (15 points)
 
 - Mettre en place une infrastructure avec l'implémentation de votre choix (in-memory, sqlite, ...) pour persister les données.
